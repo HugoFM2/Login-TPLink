@@ -1,6 +1,6 @@
 # Login-TPLink
 
-Realiza o login no site da TP-LINK, vai ate a pagina managemente e desabilita/habilita o LED
+Realiza o login no site da TP-LINK, vai ate a pagina management e desabilita/habilita o LED
 
 
 Tutorial Base:
